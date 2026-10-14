@@ -2,7 +2,7 @@
 
 Upload an invoice (PDF or image). A vision model reads it, **plain code checks the arithmetic**, you fix whatever is flagged, then export to CSV.
 
-**Live demo:** _add Vercel URL_ · Built by [Yassin Eldeib](https://github.com/yassineldieb2-hrd)
+**Live demo:** https://invoice-extractor-psi-dusky.vercel.app · Built by [Yassin Eldeib](https://github.com/yassineldieb2-hrd)
 
 ## How it works
 
